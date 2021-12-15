@@ -1,7 +1,7 @@
 // TURTLE STUFF:
 let x, y; // the current position of the turtle
 let currentangle = 0; // which way the turtle is pointing
-let step = 20; // how much the turtle moves with each 'F'
+let step = 50; // how much the turtle moves with each 'F'
 let angle = 90; // how much the turtle turns with a '-' or '+'
 
 // LINDENMAYER STUFF (L-SYSTEMS)
